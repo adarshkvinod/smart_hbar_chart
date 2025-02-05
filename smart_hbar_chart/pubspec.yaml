@@ -1,6 +1,6 @@
 name: smart_hbar_chart
 description: "A customizable horizontal bar chart for Flutter, supporting animations, images, and gradients."
-version: 1.0.2
+version: 1.0.3
 repository: https://github.com/adarshkvinod/smart_hbar_chart
 homepage: https://github.com/adarshkvinod/smart_hbar_chart
 
@@ -11,6 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
+license: MIT
 
 dev_dependencies:
   flutter_test:
