@@ -1,5 +1,5 @@
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+library smart_hbar_chart;
+
+export 'src/models/bar_data.dart';
+export 'src/models/bar_style.dart';
+export 'src/widgets/smart_bar_graph.dart';
