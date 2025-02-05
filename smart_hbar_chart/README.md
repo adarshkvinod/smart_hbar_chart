@@ -2,7 +2,7 @@
 
 A customizable horizontal bar chart for Flutter, supporting animations, images, and gradients.
 
-![Pub](https://github.com/adarshkvinod/smart_hbar_chart/blob/6d741085c5e11258c633dc79ee2073cc40145ea3/smart_hbar_chart/images/Frame%2017.png)
+![Pub](https://raw.githubusercontent.com/adarshkvinod/smart_hbar_chart/refs/heads/main/smart_hbar_chart/images/Frame%2017.png)
 
 ## Features
 ✔️ Animated horizontal bars  
