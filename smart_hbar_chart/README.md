@@ -14,7 +14,7 @@ A customizable horizontal bar chart for Flutter, supporting animations, images, 
    Add this to your `pubspec.yaml`:
    ```yaml
          dependencies:
-           smart_hbar_chart: ^1.0.1
+           smart_hbar_chart: ^1.0.2
    ```
    Then run:
     
